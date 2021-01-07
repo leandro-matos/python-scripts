@@ -1,0 +1,13 @@
+{
+    "estabelecimento": "Pedidos Devops",
+    "pedidos": [
+        {
+            "cliente": "Leandro",
+            "valor": 25.0
+        },
+        {
+            "cliente": "Marcos",
+            "valor": 55.0
+        }
+    ]
+}
